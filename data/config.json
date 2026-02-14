@@ -1,0 +1,34 @@
+{
+  "school_name": "ابتدائية الإمام عاصم",
+  "teacher_name": "أ. عبدالرحمن الحربي",
+  "rights_text": "مبادرة «أبطال القراءة» لمادة اللغة العربية - ابتدائية الإمام عاصم - جميع الحقوق محفوظة © 2026",
+  "teacher_pin": "1234",
+  "slogans": {
+    "primary": "أبطال القراءة: من نصٍّ إلى إنجاز",
+    "secondary": "نقرأ لنفهم… نفهم لنتميز"
+  },
+  "theme_colors": {
+    "primary": "#004AAD",
+    "navy": "#00337A",
+    "sky": "#2F6DFF",
+    "light_blue": "#EAF1FF",
+    "gold": "#FFC857"
+  },
+  "logos": {
+    "teacher": "assets/logo-teacher.png",
+    "school": "assets/logo-school.png"
+  },
+  "certificate": {
+    "min_texts": 25,
+    "min_avg_percent": 80,
+    "mastery_threshold": 80,
+    "mastery_attempts": 3,
+    "title": "شهادة إنجاز",
+    "body_template": "يُشهد بأن الطالب/ة {name} من الصف {class} قد أتمّ بنجاح تحدي أبطال القراءة بتقدير {grade} وبمعدل {avg}%"
+  },
+  "timer_per_question_seconds": 90,
+  "nafs_total_minutes": 30,
+  "xp_per_correct": 10,
+  "xp_per_text_complete": 50,
+  "xp_per_level": 200
+}
